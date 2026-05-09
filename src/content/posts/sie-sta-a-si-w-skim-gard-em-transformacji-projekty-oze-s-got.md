@@ -1,7 +1,7 @@
 ---
 title: "Sieć stała się wąskim gardłem transformacji. Projekty OZE są gotowe, ale system nie nadąża z przyłączeniami"
 description: "Najbardziej przejrzyste dane o skali problemu pokazuje rynek amerykański: pod koniec 2023 roku w kolejkach przyłączeniowych było prawie 2,6 TW mocy wytwórczych "
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

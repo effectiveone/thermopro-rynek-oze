@@ -1,7 +1,7 @@
 ---
 title: "Falownik od 2027: liczyć się będą też aktualizacje"
 description: "Falownik przestaje być tylko skrzynką od prądu. Wraz z Cyber Resilience Act coraz ważniejsze będzie to, kto i jak długo zapewni aktualizacje bezpieczeństwa."
-pubDate: "2026-04-26"
+date: "2026-04-26"
 author: "Redakcja"
 tags: ["OZE"]
 ---

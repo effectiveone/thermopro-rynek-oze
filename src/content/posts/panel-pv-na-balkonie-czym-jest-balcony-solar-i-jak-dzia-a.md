@@ -1,7 +1,7 @@
 ---
 title: "Panel PV na balkonie — czym jest balcony solar i jak działa"
 description: ""
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

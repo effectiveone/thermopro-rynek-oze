@@ -1,7 +1,7 @@
 ---
 title: "Rivian i Redwood stawiają magazyn z używanych baterii. EV i energetyka zaczynają się sklejać w jeden model biznesowy"
 description: "Rivian i Redwood Materials uruchamiają w zakładzie w Illinois stacjonarny magazyn energii oparty na bateriach wyjętych z aut elektrycznych. Z relacji Electrek o"
-pubDate: "2026-04-30"
+date: "2026-04-30"
 author: "Redakcja"
 tags: ["OZE"]
 ---

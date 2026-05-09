@@ -1,7 +1,7 @@
 ---
 title: "160 mln euro z Funduszy Norweskich na klimat i OZE w Polsce"
 description: "Polska podpisała umowę na program „Zielona Transformacja' finansowany z Funduszy Norweskich i Europejskiego Obszaru Gospodarczego. Całkowita wartość programu to"
-pubDate: "2026-04-28"
+date: "2026-04-28"
 author: "Redakcja"
 tags: ["OZE"]
 ---

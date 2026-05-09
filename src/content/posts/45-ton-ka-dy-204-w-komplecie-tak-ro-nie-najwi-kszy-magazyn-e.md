@@ -1,7 +1,7 @@
 ---
 title: "45 ton każdy, 204 w komplecie — tak rośnie największy magazyn energii PGE pod Trójmiastem"
 description: "PGE buduje największy magazyn energii w Polsce w okolicach Trójmiasta. Na plac budowy docierają kluczowe komponenty — 204 moduły bateryjne, każdy o masie 45 ton"
-pubDate: "2026-04-24"
+date: "2026-04-24"
 author: "Redakcja"
 tags: ["OZE"]
 ---

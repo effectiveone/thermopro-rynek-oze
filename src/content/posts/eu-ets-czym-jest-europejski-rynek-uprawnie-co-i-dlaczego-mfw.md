@@ -1,7 +1,7 @@
 ---
 title: "EU ETS — czym jest europejski rynek uprawnień CO₂ i dlaczego MFW ostrzega przed jego zawieszeniem"
 description: "Europejski System Handlu Emisjami (EU ETS) to mechanizm, który zmusza przemysł do płacenia za emisje CO₂. Im droższe uprawnienia, tym większa presja na dekarbon"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

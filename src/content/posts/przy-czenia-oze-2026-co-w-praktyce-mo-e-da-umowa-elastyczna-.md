@@ -1,7 +1,7 @@
 ---
 title: "Przyłączenia OZE 2026: co w praktyce może dać umowa elastyczna i konfigurowalna"
 description: "Temat przyłączeń od miesięcy wraca w polskiej energetyce częściej niż kolejne rekordy mocy OZE. Nic dziwnego. To właśnie na etapie przyłączenia rozstrzyga się d"
-pubDate: "2026-04-30"
+date: "2026-04-30"
 author: "Redakcja"
 tags: ["OZE"]
 ---

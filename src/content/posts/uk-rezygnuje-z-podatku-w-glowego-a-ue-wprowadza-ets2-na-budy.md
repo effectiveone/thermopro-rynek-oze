@@ -1,7 +1,7 @@
 ---
 title: "UK rezygnuje z podatku węglowego, a UE wprowadza ETS2 na budynki od 2027. Co to znaczy dla Twojego ogrzewania?"
 description: "Wielka Brytania — kraj, który wymyślił carbon pricing w Europie — właśnie zrezygnowała z podatku węglowego na elektrownie gazowe. Decyzja wynika z presji na obn"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

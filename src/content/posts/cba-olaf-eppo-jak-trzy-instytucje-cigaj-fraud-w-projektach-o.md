@@ -1,7 +1,7 @@
 ---
 title: "CBA, OLAF, EPPO — jak trzy instytucje ścigają fraud w projektach OZE i co je od siebie różni"
 description: "Przeszukania w Ministerstwie Klimatu z 21 kwietnia 2026 roku, w których wzięło udział 65 funkcjonariuszy CBA i 4 przedstawicieli OLAF, to przykład egzekucji pra"
-pubDate: "2026-04-27"
+date: "2026-04-27"
 author: "Redakcja"
 tags: ["OZE"]
 ---

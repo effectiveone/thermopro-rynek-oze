@@ -1,7 +1,7 @@
 ---
 title: "FEnIKS dla firm i samorządów: nabór na OZE trwa do końca kwietnia"
 description: "Do 30 kwietnia 2026 roku trwa nabór w ramach programu „Rozwój OZE' finansowanego z FEnIKS 2021–2027. To jedno z ważniejszych krótkoterminowych okien finansowani"
-pubDate: "2026-04-28"
+date: "2026-04-28"
 author: "Redakcja"
 tags: ["OZE"]
 ---

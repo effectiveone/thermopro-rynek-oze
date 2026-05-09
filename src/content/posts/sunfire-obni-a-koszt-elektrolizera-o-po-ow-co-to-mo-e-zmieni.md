@@ -1,7 +1,7 @@
 ---
 title: "Sunfire obniża koszt elektrolizera o połowę — co to może zmienić dla zielonego wodoru RFNBO"
 description: "Fuel Cells Works donosi, że niemiecki producent elektrolizerów Sunfire ogłosił obniżenie kosztów produkcji elektrolizerów SOEC (Solid Oxide Electrolyzer Cell) o"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

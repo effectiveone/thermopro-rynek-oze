@@ -1,7 +1,7 @@
 ---
 title: "Kwiecień 2026 może być rekordowym miesiącem wyłączeń OZE w Polsce"
 description: "Miniony weekend przyniósł w Polsce wysoką generację ze źródeł odnawialnych i — według danych z rynku dnia następnego oraz relacji GLOBEnergii — epizody ujemnych"
-pubDate: "2026-04-28"
+date: "2026-04-28"
 author: "Redakcja"
 tags: ["OZE"]
 ---

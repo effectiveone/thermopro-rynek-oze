@@ -1,7 +1,7 @@
 ---
 title: "Budowa elektrowni gazowej zdrożała o 66% w dwa lata — OZE może być tańsze od nowych projektów gazowych w części rynków"
 description: "🟡 Według Bloomberg NEF (Tier 2), koszt budowy elektrowni gazowej w USA wzrósł o 66% w ciągu dwóch lat (2023–2025). 🟡 Według analityków BNEF, koszty OZE i BESS n"
-pubDate: "2026-04-24"
+date: "2026-04-24"
 author: "Redakcja"
 tags: ["OZE"]
 ---

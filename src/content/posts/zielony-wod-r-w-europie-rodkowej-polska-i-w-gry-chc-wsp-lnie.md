@@ -1,7 +1,7 @@
 ---
 title: "Zielony wodór w Europie Środkowej — Polska i Węgry chcą wspólnie budować system aukcji"
 description: "Polskie i węgierskie organizacje branżowe (Hydrogen Poland i ich węgierski odpowiednik) ogłosiły współpracę nad stworzeniem mechanizmu aukcji wodorowej w Europi"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

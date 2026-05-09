@@ -1,7 +1,7 @@
 ---
 title: "Niemcy wybrały pompy ciepła zamiast gazu — w Polsce nadal odwrotnie. Dlaczego?"
 description: "W Niemczech w pierwszych miesiącach 2026 roku pompy ciepła wyprzedzają kotły gazowe w nowych instalacjach grzewczych. W Polsce proporcja jest odwrotna — gaz wci"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

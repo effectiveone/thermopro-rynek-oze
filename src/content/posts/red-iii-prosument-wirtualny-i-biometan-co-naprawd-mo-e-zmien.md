@@ -1,7 +1,7 @@
 ---
 title: "RED III, prosument wirtualny i biometan. Co naprawdę może zmienić nowelizacja ustawy o OZE"
 description: "Nowelizacja ustawy o OZE wraca jako jeden z ważniejszych tematów dla rynku na przełomie kwietnia i maja. Z relacji branżowych oraz z komunikatu Ministerstwa Kli"
-pubDate: "2026-04-30"
+date: "2026-04-30"
 author: "Redakcja"
 tags: ["OZE"]
 ---

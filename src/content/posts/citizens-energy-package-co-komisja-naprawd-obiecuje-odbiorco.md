@@ -1,7 +1,7 @@
 ---
 title: "Citizens Energy Package — co Komisja naprawdę obiecuje odbiorcom energii i prosumentom"
 description: "Komisja Europejska opublikowała 30 kwietnia 2026 r. Citizens Energy Package, czyli zestaw rekomendacji i dokumentów towarzyszących, które mają pomóc gospodarstw"
-pubDate: "2026-05-01"
+date: "2026-05-01"
 author: "Redakcja"
 tags: ["OZE"]
 ---

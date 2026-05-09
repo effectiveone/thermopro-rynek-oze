@@ -1,7 +1,7 @@
 ---
 title: "Shell zbliża się — według doniesień branżowych — do końca budowy elektrolizera 200 MW w Holandii"
 description: "🟡 Według gasworld i Hydrogen Insight (Tier 3, 23.04.2026), Shell NortH2 zbliża się do zakończenia budowy zakładu produkcji zielonego wodoru 200 MW w Holandii, z"
-pubDate: "2026-04-27"
+date: "2026-04-27"
 author: "Redakcja"
 tags: ["OZE"]
 ---

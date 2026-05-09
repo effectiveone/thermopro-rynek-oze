@@ -1,7 +1,7 @@
 ---
 title: "Dotacje OZE wiosna 2026 — co jest dostępne i jak to sprawdzić"
 description: "NFOŚiGW przedłużył nabór wniosków w bieżącej edycji programu Mój Prąd — dotyczy osób, które nie zdążyły złożyć dokumentów w pierwotnym terminie. Równolegle NFOŚ"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

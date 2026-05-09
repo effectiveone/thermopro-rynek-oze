@@ -1,7 +1,7 @@
 ---
 title: "Koperta pracy pompy ciepła: parametr, który rzadko pojawia się w ofertach — a który decyduje o rachunkach"
 description: "GLOBEnergia opublikowała materiał o kopercie pracy pompy ciepła — parametrze technicznym, który definiuje w jakich warunkach pompa pracuje efektywnie, a w jakic"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

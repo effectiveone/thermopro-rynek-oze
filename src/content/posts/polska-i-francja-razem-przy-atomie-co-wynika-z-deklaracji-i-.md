@@ -1,7 +1,7 @@
 ---
 title: "Polska i Francja razem przy atomie — co wynika z deklaracji i co EDF bada dla kolejnej elektrowni"
 description: "Polska i Francja podpisały deklarację o współpracy w dziedzinie energetyki jądrowej i nowoczesnych technologii energetycznych. EDF — największy na świecie opera"
-pubDate: "2026-04-27"
+date: "2026-04-27"
 author: "Redakcja"
 tags: ["OZE"]
 ---

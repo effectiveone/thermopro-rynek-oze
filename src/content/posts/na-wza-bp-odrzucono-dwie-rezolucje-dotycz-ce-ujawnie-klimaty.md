@@ -1,7 +1,7 @@
 ---
 title: "Na WZA BP odrzucono dwie rezolucje dotyczące ujawnień klimatycznych — sygnał napięcia wokół strategii spółki"
 description: "🟡 Według oficjalnych wyników WZA BP i relacji CNBC z 23.04.2026, akcjonariusze odrzucili dwie rezolucje powiązane z climate disclosures. To może sygnalizować ut"
-pubDate: "2026-04-27"
+date: "2026-04-27"
 author: "Redakcja"
 tags: ["OZE"]
 ---

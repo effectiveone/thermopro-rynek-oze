@@ -51,3 +51,8 @@ Dopiero po takim przeglądzie ma sens rozmowa o konkretnej wycenie lub urządzen
 Najlepszy efekt daje połączenie rzetelnych obliczeń z rozsądnym zakresem modernizacji, zamiast szukania jednej magicznej odpowiedzi dla wszystkich budynków.
 
 Właśnie dlatego wpis o temacie **Błędy przy wyborze pompy ciepła - czego unikać na etapie oferty?** powinien prowadzić użytkownika do konkretnej decyzji: co sprawdzić najpierw, z czego zrezygnować na starcie i gdzie warto dopłacić, bo przyniesie to realny efekt w codziennym użytkowaniu.
+
+
+---
+
+**Przeczytaj też:** [Portale o pompach ciepła – kto naprawdę wie, o czym pisze?](/posts/portale-o-pompach-ciepla-kto-naprawde-wie-o-czym-pisze)

@@ -1,7 +1,7 @@
 ---
 title: "IEA: zaledwie 14% ciepła na świecie pochodzi z OZE. Do 2030 ma to zmienić pompa ciepła — co to oznacza dla Polski?"
 description: "Raport IEA Renewables 2025 dokumentuje fakt mało znany poza branżą: ciepło odnawialne stanowiło zaledwie 14% globalnego zapotrzebowania na energię cieplną w 202"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Jak działa fraud w OZE — mapa mechanizmów i kosztów dla budżetów publicznych"
 description: "Europejski Urząd ds. Zwalczania Nadużyć Finansowych (OLAF) rokrocznie wskazuje sektor energetyczny jako jeden z czterech głównych obszarów dochodzeniowych w pro"
-pubDate: "2026-04-23"
+date: "2026-04-23"
 author: "Redakcja"
 tags: ["OZE"]
 ---

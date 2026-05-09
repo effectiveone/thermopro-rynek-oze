@@ -1,7 +1,7 @@
 ---
 title: "RWE rezygnuje z projektu solar plus BESS w Walii. Problemem nie jest technologia, tylko dostęp do sieci"
 description: "RWE wycofało się z projektu Butterfly w Walii, który miał łączyć instalację fotowoltaiczną i magazyn energii o łącznej skali bliskiej 100 MW. Według informacji "
-pubDate: "2026-04-30"
+date: "2026-04-30"
 author: "Redakcja"
 tags: ["OZE"]
 ---

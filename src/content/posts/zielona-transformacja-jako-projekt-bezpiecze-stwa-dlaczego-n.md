@@ -1,7 +1,7 @@
 ---
 title: "Zielona transformacja jako projekt bezpieczeństwa — dlaczego Norwegia finansuje OZE w Polsce i co Ukraina zmieniła w myśleniu o energetyce"
 description: "Polska świadomie przesuwa narrację o OZE z „zielone bo klimat' na „zielone bo bezpieczeństwo'. Zarazem formalizuje bilateralną współpracę z krajami nordyckimi —"
-pubDate: "2026-04-24"
+date: "2026-04-24"
 author: "Redakcja"
 tags: ["OZE"]
 ---

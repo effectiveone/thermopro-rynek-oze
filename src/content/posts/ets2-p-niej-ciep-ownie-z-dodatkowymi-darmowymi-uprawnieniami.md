@@ -1,7 +1,7 @@
 ---
 title: "ETS2 później, ciepłownie z dodatkowymi darmowymi uprawnieniami. Co to może zmienić"
 description: "W komunikacie Ministerstwa Klimatu i Środowiska mocno wybrzmiewają dwa wątki kosztowe: odsunięcie wejścia w życie ETS2 oraz wynegocjowanie 30% dodatkowych darmo"
-pubDate: "2026-05-01"
+date: "2026-05-01"
 author: "Redakcja"
 tags: ["OZE"]
 ---

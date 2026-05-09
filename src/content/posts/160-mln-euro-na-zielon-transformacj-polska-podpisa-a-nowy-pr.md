@@ -1,7 +1,7 @@
 ---
 title: "160 mln euro na zieloną transformację — Polska podpisała nowy program z Funduszy Norweskich i EOG"
 description: "20 kwietnia 2026 Polska podpisała umowę na nowy program klimatyczno-energetyczny finansowany ze środków norweskich i Europejskiego Obszaru Gospodarczego (EOG). "
-pubDate: "2026-04-27"
+date: "2026-04-27"
 author: "Redakcja"
 tags: ["OZE"]
 ---

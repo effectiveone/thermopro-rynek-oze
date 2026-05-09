@@ -1,7 +1,7 @@
 ---
 title: "Amazon podpisuje kolejne projekty OZE pod data center. AI może stać się nowym klientem dla farm i magazynów energii"
 description: "Amazon zawarł w Australii umowy na energię z dziewięciu nowych projektów odnawialnych, które mają zasilać działalność centrów danych. Z relacji 'The Guardian' w"
-pubDate: "2026-04-30"
+date: "2026-04-30"
 author: "Redakcja"
 tags: ["OZE"]
 ---

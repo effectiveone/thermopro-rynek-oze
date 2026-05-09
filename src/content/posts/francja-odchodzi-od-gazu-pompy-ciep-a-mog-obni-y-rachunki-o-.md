@@ -1,7 +1,7 @@
 ---
 title: "Francja odchodzi od gazu — pompy ciepła mogą obniżyć rachunki o połowę. Kiedy Polska pójdzie tym tropem?"
 description: "Według Gramwzielone (23.04.2026, Tier 2), Francja wprowadza pakiet wsparcia dla pomp ciepła, który — według wyliczeń rządowych — może obniżyć rachunki za ogrzew"
-pubDate: "2026-04-27"
+date: "2026-04-27"
 author: "Redakcja"
 tags: ["OZE"]
 ---

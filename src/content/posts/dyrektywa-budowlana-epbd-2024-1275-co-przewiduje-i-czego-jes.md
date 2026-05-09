@@ -1,7 +1,7 @@
 ---
 title: "Dyrektywa budowlana EPBD 2024/1275: co przewiduje i czego jeszcze nie ma w polskim prawie"
 description: "Dyrektywa (UE) 2024/1275 w sprawie charakterystyki energetycznej budynków (EPBD) opublikowana w Dzienniku Urzędowym UE 8 maja 2024 r. obowiązuje od 28 maja 2024"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

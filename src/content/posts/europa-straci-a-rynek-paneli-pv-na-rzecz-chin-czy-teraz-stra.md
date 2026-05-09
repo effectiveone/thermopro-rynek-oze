@@ -1,7 +1,7 @@
 ---
 title: "Europa straciła rynek paneli PV na rzecz Chin. Czy teraz straci elektrolizery — i co to może zmienić dla cen zielonego wodoru w firmach i domach?"
 description: "W 2007 roku europejscy producenci paneli słonecznych — firmy z Niemiec, Francji, Włoch — kontrolowali ponad 70% globalnego rynku modułów PV (EC / IRENA, Europea"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "To nie wygląda już jak pojedyncze eksperymenty. Polski BESS zaczyna układać się w cały pipeline"
 description: "Jeszcze niedawno o dużych magazynach energii w Polsce mówiło się głównie przy okazji pojedynczych zapowiedzi. Wiosna 2026 r. pokazuje jednak coś więcej niż seri"
-pubDate: "2026-04-27"
+date: "2026-04-27"
 author: "Redakcja"
 tags: ["OZE"]
 ---

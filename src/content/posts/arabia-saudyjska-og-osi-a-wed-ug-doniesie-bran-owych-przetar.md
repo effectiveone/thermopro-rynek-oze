@@ -1,7 +1,7 @@
 ---
 title: "Arabia Saudyjska ogłosiła według doniesień branżowych przetarg na 12 GWh magazynów energii"
 description: "🟡 Według portalu Renewables Now (Tier 3 — brak niezależnej weryfikacji), Arabia Saudyjska uruchomiła proces kwalifikacyjny dla wykonawców 12 projektów BESS o łą"
-pubDate: "2026-04-27"
+date: "2026-04-27"
 author: "Redakcja"
 tags: ["OZE"]
 ---

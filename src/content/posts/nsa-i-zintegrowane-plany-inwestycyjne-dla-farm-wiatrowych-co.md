@@ -1,7 +1,7 @@
 ---
 title: "NSA i zintegrowane plany inwestycyjne dla farm wiatrowych. Co naprawdę wynika z relacji o wyroku z kwietnia 2026?"
 description: "Według relacji portali branżowych Naczelny Sąd Administracyjny miał w połowie kwietnia 2026 roku rozstrzygnąć sprawę dotyczącą możliwości stosowania zintegrowan"
-pubDate: "2026-04-28"
+date: "2026-04-28"
 author: "Redakcja"
 tags: ["OZE"]
 ---

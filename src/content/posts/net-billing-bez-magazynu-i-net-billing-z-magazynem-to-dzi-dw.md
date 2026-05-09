@@ -1,7 +1,7 @@
 ---
 title: "Net-billing bez magazynu i net-billing z magazynem to dziś dwie różne historie"
 description: "Oficjalne materiały Ministerstwa Klimatu i Środowiska nie pozostawiają dużych wątpliwości co do jednego: w systemie net-billingu coraz większe znaczenie ma nie "
-pubDate: "2026-04-28"
+date: "2026-04-28"
 author: "Redakcja"
 tags: ["OZE"]
 ---

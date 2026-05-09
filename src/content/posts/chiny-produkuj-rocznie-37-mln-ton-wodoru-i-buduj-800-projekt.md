@@ -1,7 +1,7 @@
 ---
 title: "Chiny produkują rocznie 37 mln ton wodoru i budują 800 projektów wind+solar+elektrolizer. Co robi Europa — i czy to dotyczy Polski?"
 description: "China National Energy Administration raportuje, że Chiny produkowały w 2023 r. szacunkowo 36,6–37 mln ton wodoru rocznie — 36,6% światowej produkcji (China Nati"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

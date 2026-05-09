@@ -1,7 +1,7 @@
 ---
 title: "Szwecja wchodzi w polskie magazyny energii, a krajowa firma rusza z BESS bez wkładu własnego. Co to oznacza dla właścicieli farm PV?"
 description: "W ciągu kilku dni na polskim rynku magazynowania energii pojawiły się trzy informacje, które warto czytać razem. Szwedzka spółka Tavion zebrała finansowanie i w"
-pubDate: "2026-04-28"
+date: "2026-04-28"
 author: "Redakcja"
 tags: ["OZE"]
 ---

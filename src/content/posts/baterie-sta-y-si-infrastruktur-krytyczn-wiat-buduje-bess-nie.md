@@ -1,7 +1,7 @@
 ---
 title: "Baterie stały się infrastrukturą krytyczną. Świat buduje BESS nie jako dodatek, tylko warunek działania systemu"
 description: "Międzynarodowa Agencja Energetyczna podaje, że w 2025 roku na świecie przybyło 108 GW nowych magazynów bateryjnych, czyli o 40% więcej niż rok wcześniej, a okoł"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

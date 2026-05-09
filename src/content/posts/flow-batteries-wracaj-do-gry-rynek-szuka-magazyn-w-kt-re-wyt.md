@@ -1,7 +1,7 @@
 ---
 title: "Flow batteries wracają do gry. Rynek szuka magazynów, które wytrzymają dłużej niż klasyczne BESS"
 description: "W Australii Zachodniej ruszył proces dla vanadowego magazynu 50 MW / 500 MWh, projektowanego jako element odporności systemu i lokalnego łańcucha dostaw (Energy"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

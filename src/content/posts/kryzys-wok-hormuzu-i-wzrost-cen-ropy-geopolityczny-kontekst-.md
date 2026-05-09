@@ -1,7 +1,7 @@
 ---
 title: "Kryzys wokół Hormuzu i wzrost cen ropy — geopolityczny kontekst inwestycji w OZE w 2026 roku"
 description: "🟡 W końcówce kwietnia 2026 ropa Brent kosztowała ponad 100 USD/bbl. (Trading Economics, 23.04.2026) 🟡 Komentarze analityczne i publicystyczne z tego samego okre"
-pubDate: "2026-04-25"
+date: "2026-04-25"
 author: "Redakcja"
 tags: ["OZE"]
 ---

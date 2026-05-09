@@ -1,7 +1,7 @@
 ---
 title: "Phantom farms, certyfikaty-duchy i zawyżone faktury — trzy schematy wyłudzeń w projektach OZE, które działają latami"
 description: "Fraud w OZE nie wygląda jak napad na bank. Wygląda jak normalny projekt inwestycyjny — z dokumentacją, decyzjami środowiskowymi, fakturami i audytami. Różnica m"
-pubDate: "2026-04-27"
+date: "2026-04-27"
 author: "Redakcja"
 tags: ["OZE"]
 ---

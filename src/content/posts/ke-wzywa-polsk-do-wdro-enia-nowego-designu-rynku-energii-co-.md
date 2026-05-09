@@ -1,7 +1,7 @@
 ---
 title: "KE wzywa Polskę do wdrożenia nowego designu rynku energii. Co grozi po reasoned opinion"
 description: "Komisja Europejska wysłała do Polski uzasadnioną opinię w sprawie niewdrożenia do prawa krajowego części przepisów nowego unijnego designu rynku energii elektry"
-pubDate: "2026-05-01"
+date: "2026-05-01"
 author: "Redakcja"
 tags: ["OZE"]
 ---

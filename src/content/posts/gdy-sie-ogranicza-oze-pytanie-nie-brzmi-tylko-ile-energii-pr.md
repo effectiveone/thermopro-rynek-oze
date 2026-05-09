@@ -1,7 +1,7 @@
 ---
 title: "Gdy sieć ogranicza OZE, pytanie nie brzmi tylko „ile energii przepadło”. Ważne jest też, według jakich zasad to zrobiono"
 description: "Na początku marca 2026 r. UOKiK poinformował o wszczęciu postępowania wyjaśniającego dotyczącego praktyk Polskich Sieci Elektroenergetycznych przy nierynkowym r"
-pubDate: "2026-04-27"
+date: "2026-04-27"
 author: "Redakcja"
 tags: ["OZE"]
 ---

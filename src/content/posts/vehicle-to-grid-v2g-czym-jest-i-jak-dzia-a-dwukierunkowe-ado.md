@@ -1,7 +1,7 @@
 ---
 title: "Vehicle-to-Grid (V2G) — czym jest i jak działa dwukierunkowe ładowanie"
 description: ""
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

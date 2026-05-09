@@ -1,7 +1,7 @@
 ---
 title: "V2G: samochód elektryczny jako magazyn energii. Co działa dziś, co dopiero za 3 lata"
 description: "V2H — przepływ energii z baterii EV do domu — jest dostępne w Polsce już dziś dla Ioniq 5/6, EV6/EV9 i VW ID.3/ID.4. V2G do sieci wymaga zmian legislacyjnych. Z"
-pubDate: "2026-04-10"
+date: "2026-04-10"
 author: "Redakcja"
 tags: ["OZE", "energia"]
 ---

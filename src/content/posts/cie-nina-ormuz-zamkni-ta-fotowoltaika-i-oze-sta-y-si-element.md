@@ -1,7 +1,7 @@
 ---
 title: "Cieśnina Ormuz zamknięta — fotowoltaika i OZE stały się elementem bezpieczeństwa energetycznego"
 description: "Międzynarodowy Fundusz Walutowy ostrzegł, że zamknięcie Cieśniny Ormuz stwarza perspektywę „poważnego kryzysu energetycznego' (Guardian / IMF, 15.04.2026). Prze"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

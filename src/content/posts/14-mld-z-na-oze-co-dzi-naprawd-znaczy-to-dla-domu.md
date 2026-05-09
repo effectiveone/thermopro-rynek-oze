@@ -1,7 +1,7 @@
 ---
 title: "14 mld zł na OZE? Co dziś naprawdę znaczy to dla domu"
 description: "Kwota 14 mld zł dobrze wygląda w nagłówku, ale dla właściciela domu ważniejsze od samej sumy jest to, czy za liczbą stoi realny nabór, regulamin i ścieżka wnios"
-pubDate: "2026-04-27"
+date: "2026-04-27"
 author: "Redakcja"
 tags: ["OZE"]
 ---

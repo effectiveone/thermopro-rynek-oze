@@ -1,7 +1,7 @@
 ---
 title: "CBA zabezpiecza dokumenty ws. „Czystego Powietrza”. Co dziś wiadomo, a czego śledztwo jeszcze nie przesądza"
 description: "21 kwietnia 2026 r. na polecenie Prokuratury Europejskiej (EPPO) przeprowadzono w Polsce przeszukania służące zabezpieczeniu dowodów w sprawie możliwych niepraw"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

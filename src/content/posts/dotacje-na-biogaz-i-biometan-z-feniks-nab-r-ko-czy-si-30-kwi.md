@@ -1,7 +1,7 @@
 ---
 title: "Dotacje na biogaz i biometan z FEnIKS: nabór kończy się 30 kwietnia 2026"
 description: "Nabór w programie FEnIKS na instalacje biogazowe i biometanowe kończy się 30 kwietnia 2026 roku. Z relacji branżowych wynika, że to jedno z ważniejszych okien f"
-pubDate: "2026-04-29"
+date: "2026-04-29"
 author: "Redakcja"
 tags: ["OZE"]
 ---

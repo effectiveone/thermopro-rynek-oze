@@ -1,7 +1,7 @@
 ---
 title: "NaszEauto skończyło się 27 stycznia. Co zostało dla firm? 225 tys. zł amortyzacji i tańszy rachunek"
 description: "Program NaszEauto wyczerpał cały budżet 1,18 mld zł w 27 dni od otwarcia naborów — 27 stycznia 2026 roku. Dla osób fizycznych to zamknięte drzwi. Dla firm sytua"
-pubDate: "2026-04-27"
+date: "2026-04-27"
 author: "Redakcja"
 tags: ["OZE"]
 ---

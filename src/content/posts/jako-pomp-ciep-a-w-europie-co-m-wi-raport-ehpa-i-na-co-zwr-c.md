@@ -1,7 +1,7 @@
 ---
 title: "Jakość pomp ciepła w Europie — co mówi raport EHPA i na co zwrócić uwagę"
 description: ""
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

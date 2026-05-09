@@ -1,7 +1,7 @@
 ---
 title: "One-stop shop dla renowacji budynków: co przewiduje Rekomendacja KE 2026/536 i jak wygląda ten model"
 description: "10 marca 2026 r. Komisja Europejska opublikowała Rekomendację (UE) 2026/536 z praktycznymi wskazówkami dla państw członkowskich w zakresie wdrożenia one-stop sh"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

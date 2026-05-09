@@ -1,7 +1,7 @@
 ---
 title: "Francja i Włochy zainstalowały 1,4 GW PV w Q1 2026 — Polska traci dystans. Porównanie rynków"
 description: "PV Magazine Global raportuje, że Francja zainstalowała szacunkowo 700 MW nowej mocy PV w I kwartale 2026 r., bijąc własny rekord kwartalny (PV Magazine Global, "
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

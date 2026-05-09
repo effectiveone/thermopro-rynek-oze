@@ -1,7 +1,7 @@
 ---
 title: "Największa farma fotowoltaiczna w Polsce weszła na rynek bilansujący. Co to zmienia i dla kogo?"
 description: "Do tej pory wielka fotowoltaika w Polsce działała prosto: produkowała energię i sprzedawała ją na rynek. Teraz jeden z największych obiektów poszedł o krok dale"
-pubDate: "2026-04-28"
+date: "2026-04-28"
 author: "Redakcja"
 tags: ["OZE"]
 ---

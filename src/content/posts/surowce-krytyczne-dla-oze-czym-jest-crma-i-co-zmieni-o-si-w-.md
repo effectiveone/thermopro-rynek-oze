@@ -1,7 +1,7 @@
 ---
 title: "Surowce krytyczne dla OZE: czym jest CRMA i co zmieniło się w 2026 roku"
 description: "Rozporządzenie (UE) 2024/1252 w sprawie surowców krytycznych (Critical Raw Materials Act, CRMA) obowiązuje od maja 2024 r. (EUR-Lex, Rozporządzenie 2024/1252 🔵)"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

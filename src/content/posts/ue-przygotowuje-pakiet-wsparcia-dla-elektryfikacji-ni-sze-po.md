@@ -1,7 +1,7 @@
 ---
 title: "UE przygotowuje pakiet wsparcia dla elektryfikacji: niższe podatki na pompy ciepła i fotowoltaikę, ulgi dla elektryków"
 description: "Komisja Europejska pracuje nad pakietem propozycji, który ma obniżyć koszty zakupu technologii elektryfikacyjnych — pomp ciepła, paneli PV i samochodów elektryc"
-pubDate: "2026-04-28"
+date: "2026-04-28"
 author: "Redakcja"
 tags: ["OZE"]
 ---

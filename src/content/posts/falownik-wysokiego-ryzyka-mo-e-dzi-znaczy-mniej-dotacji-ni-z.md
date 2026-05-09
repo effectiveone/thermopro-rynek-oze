@@ -1,7 +1,7 @@
 ---
 title: "Falownik „wysokiego ryzyka” może dziś znaczyć mniej dotacji niż zakładano. UE patrzy już nie tylko na urządzenie, ale też na dostawcę"
 description: "Według relacji pv magazine z 23 kwietnia 2026 roku Komisja Europejska przygotowała wytyczne ograniczające użycie środków unijnych w projektach PV, które korzyst"
-pubDate: "2026-04-28"
+date: "2026-04-28"
 author: "Redakcja"
 tags: ["OZE"]
 ---

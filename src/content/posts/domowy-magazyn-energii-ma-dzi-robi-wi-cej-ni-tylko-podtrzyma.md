@@ -1,7 +1,7 @@
 ---
 title: "Domowy magazyn energii ma dziś robić więcej niż tylko podtrzymać zasilanie. Coraz częściej ma też poprawiać ekonomię domu"
 description: "Jeszcze niedawno domowy magazyn energii był sprzedawany głównie jako zabezpieczenie na wypadek awarii i dodatek do fotowoltaiki. Wiosną 2026 r. coraz częściej w"
-pubDate: "2026-04-28"
+date: "2026-04-28"
 author: "Redakcja"
 tags: ["OZE"]
 ---

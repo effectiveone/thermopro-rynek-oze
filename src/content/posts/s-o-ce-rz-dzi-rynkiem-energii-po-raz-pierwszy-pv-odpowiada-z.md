@@ -1,7 +1,7 @@
 ---
 title: "Słońce rządzi rynkiem energii — po raz pierwszy PV odpowiada za ponad 25% wzrostu globalnego popytu"
 description: "W 2025 roku fotowoltaika po raz pierwszy stała się największym pojedynczym źródłem wzrostu podaży energii na świecie. Międzynarodowa Agencja Energetyczna (IEA) "
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

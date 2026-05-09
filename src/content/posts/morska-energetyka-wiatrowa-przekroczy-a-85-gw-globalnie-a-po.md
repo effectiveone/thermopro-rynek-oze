@@ -1,7 +1,7 @@
 ---
 title: "Morska energetyka wiatrowa przekroczyła 85 GW globalnie — a Polska buduje Baltica 2"
 description: "Globalna moc zainstalowana w morskich farmach wiatrowych przekroczyła 85 GW. Europa pozostaje liderem, ale Chiny szybko zmniejszają dystans. Tymczasem w Polsce "
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Przydomowe Magazyny Energii: końcówka naboru do 30 kwietnia i kilka rzeczy, które naprawdę warto sprawdzić"
 description: "Program „Przydomowe Magazyny Energii” w części finansowanej z KPO został przedłużony do 30 kwietnia 2026 r. Na stronie programu podano, że na 24 kwietnia złożon"
-pubDate: "2026-04-27"
+date: "2026-04-27"
 author: "Redakcja"
 tags: ["OZE"]
 ---

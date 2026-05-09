@@ -1,7 +1,7 @@
 ---
 title: "Mikrogrid nie jest już tylko technologią dla wysp. Coraz częściej staje się narzędziem odporności"
 description: "Jeszcze niedawno mikrogrid kojarzył się głównie z odległą wyspą, bazą wojskową albo kampusem badawczym. Tymczasem najnowsze komunikaty publiczne z Australii i U"
-pubDate: "2026-04-28"
+date: "2026-04-28"
 author: "Redakcja"
 tags: ["OZE"]
 ---

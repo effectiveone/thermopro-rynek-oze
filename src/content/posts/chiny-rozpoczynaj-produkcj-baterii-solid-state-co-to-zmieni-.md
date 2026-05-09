@@ -1,7 +1,7 @@
 ---
 title: "Chiny rozpoczynają produkcję baterii solid-state — co to zmieni w magazynach energii i EV"
 description: "Energy Storage News raportuje, że chińscy producenci (CATL, BYD, Gotion High-Tech) zapowiedzieli pierwsze komercyjne linie produkcyjne baterii solid-state na sz"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

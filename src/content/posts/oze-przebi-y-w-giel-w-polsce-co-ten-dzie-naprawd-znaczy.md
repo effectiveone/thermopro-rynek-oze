@@ -1,7 +1,7 @@
 ---
 title: "OZE przebiły węgiel w Polsce. Co ten dzień naprawdę znaczy?"
 description: "Jedna doba z przewagą OZE nad węglem nie zmienia jeszcze całego systemu, ale pokazuje, że polska transformacja weszła w etap, w którym taki wynik przestał być c"
-pubDate: "2026-04-27"
+date: "2026-04-27"
 author: "Redakcja"
 tags: ["OZE"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Oxford PV wysłało pierwsze komercyjne moduły tandemowe perowskit-krzem. Sprawność: 24,5%. Kiedy trafią na polskie dachy?"
 description: "We wrześniu 2024 roku Oxford PV — firma z linią pilotażową w Brandenburgii (Niemcy) — wysłała pierwsze komercyjne moduły tandemowe perowskit-krzem do klienta se"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

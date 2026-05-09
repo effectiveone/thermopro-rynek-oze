@@ -1,7 +1,7 @@
 ---
 title: "Nowe domy z obowiązkiem fotowoltaiki. Co mówi dyrektywa EPBD i co z tego wynika dla Polski?"
 description: "W ostatnich dniach portal Forsal.pl oraz inne serwisy opisywały sprawę pod hasłem „fotowoltaika obowiązkowa — kto nie zamontuje, nie zamieszka'. Nagłówki były s"
-pubDate: "2026-04-28"
+date: "2026-04-28"
 author: "Redakcja"
 tags: ["OZE"]
 ---

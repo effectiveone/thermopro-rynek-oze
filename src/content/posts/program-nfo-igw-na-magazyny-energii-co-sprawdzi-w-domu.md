@@ -1,7 +1,7 @@
 ---
 title: "Program NFOŚiGW na magazyny energii? Co sprawdzić w domu"
 description: "Wokół domowych magazynów energii robi się głośniej, ale dziś ważniejsze od pytania o samą dotację jest to, czy bateria ma sens w konkretnym domu z fotowoltaiką."
-pubDate: "2026-04-26"
+date: "2026-04-26"
 author: "Redakcja"
 tags: ["OZE"]
 ---

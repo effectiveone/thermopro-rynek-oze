@@ -1,7 +1,7 @@
 ---
 title: "CATL deklaruje ładowanie akumulatora EV w 6 minut — co może oznaczać ten sygnał technologiczny dla rynku elektryków w Polsce"
 description: "🟡 Według komunikatu CATL opublikowanego przez PR Newswire (23.04.2026), nowa generacja akumulatora Shenxing ma osiągać ładowanie od 10% do 98% w 6 minut i 27 se"
-pubDate: "2026-04-27"
+date: "2026-04-27"
 author: "Redakcja"
 tags: ["OZE"]
 ---

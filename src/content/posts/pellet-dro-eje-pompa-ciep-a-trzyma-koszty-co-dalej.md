@@ -1,7 +1,7 @@
 ---
 title: "Pellet drożeje, pompa ciepła trzyma koszty. Co dalej?"
 description: "Nowy raport PAS pokazuje, że pellet zdrożał dużo mocniej niż eksploatacja pompy ciepła. To nie znaczy, że każdemu od razu opłaci się wymiana źródła ciepła, ale "
-pubDate: "2026-04-27"
+date: "2026-04-27"
 author: "Redakcja"
 tags: ["OZE"]
 ---

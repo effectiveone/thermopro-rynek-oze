@@ -1,7 +1,7 @@
 ---
 title: "URE ostrzega przed fotowoltaiką od drzwi do drzwi"
 description: "URE ostrzega przed scenariuszem, w którym akwizytor podszywa się pod program rządowy i próbuje zebrać dane lub podpis pod umową przy pierwszej wizycie."
-pubDate: "2026-04-25"
+date: "2026-04-25"
 author: "Redakcja"
 tags: ["OZE"]
 ---

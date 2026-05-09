@@ -1,7 +1,7 @@
 ---
 title: "Projekt przepisów pożarowych a domowe magazyny energii — czy Polska sama podetnie rynek BESS"
 description: "Rynek magazynów energii w Polsce znalazł się w ciekawym, ale też niewygodnym momencie. Z jednej strony państwo pokazuje coraz mocniej, że bez magazynowania nie "
-pubDate: "2026-05-01"
+date: "2026-05-01"
 author: "Redakcja"
 tags: ["OZE"]
 ---

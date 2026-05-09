@@ -1,7 +1,7 @@
 ---
 title: "Rynek mocy 2027 — URE ogłasza wyniki aukcji dodatkowych. Ceny od 0,12 do 186 zł/kW/rok"
 description: "Prezes Urzędu Regulacji Energetyki ogłosiła wyniki czterech aukcji dodatkowych na rok dostaw 2027 w ramach polskiego rynku mocy. Aukcje przeprowadził operator P"
-pubDate: "2026-04-27"
+date: "2026-04-27"
 author: "Redakcja"
 tags: ["OZE"]
 ---

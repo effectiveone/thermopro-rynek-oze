@@ -1,7 +1,7 @@
 ---
 title: "79% nowych mocy PV to instalacje powyżej 50 MW. Era gigafarm właśnie zastąpiła erę przydomowych paneli"
 description: "W 2022 roku instalacje PV powyżej 50 MW stanowiły zaledwie 19% nowych mocy przyłączanych do sieci. W 2026 roku — już 79%. Instytut Energetyki Odnawialnej (IEO) "
-pubDate: "2026-04-27"
+date: "2026-04-27"
 author: "Redakcja"
 tags: ["OZE"]
 ---

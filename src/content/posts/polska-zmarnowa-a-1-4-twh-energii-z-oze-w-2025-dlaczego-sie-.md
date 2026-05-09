@@ -1,7 +1,7 @@
 ---
 title: "Polska zmarnowała 1,4 TWh energii z OZE w 2025 — dlaczego sieć nie nadąża za fotowoltaiką"
 description: "W 2025 roku Polska zmarnowała ok. 1,4 TWh energii z odnawialnych źródeł — dwukrotnie więcej niż rok wcześniej. Prąd z PV i wiatru był, ale sieć nie potrafiła go"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

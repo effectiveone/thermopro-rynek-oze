@@ -1,7 +1,7 @@
 ---
 title: "Chiny mogą ograniczyć eksport maszyn do produkcji PV do USA. To ważniejszy sygnał niż kolejny raport o gigawatach"
 description: "Według informacji Reutersa z połowy kwietnia 2026 roku Chiny rozpoczęły wstępne rozmowy z częścią producentów zaawansowanych urządzeń do produkcji ogniw i moduł"
-pubDate: "2026-04-29"
+date: "2026-04-29"
 author: "Redakcja"
 tags: ["OZE"]
 ---

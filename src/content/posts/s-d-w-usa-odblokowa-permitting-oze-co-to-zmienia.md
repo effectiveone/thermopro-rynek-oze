@@ -1,7 +1,7 @@
 ---
 title: "Sąd w USA odblokował permitting OZE. Co to zmienia?"
 description: "Federalny sąd w USA tymczasowo zablokował mechanizm, który branża opisywała jako de facto moratorium na część projektów OZE na ziemiach federalnych."
-pubDate: "2026-04-26"
+date: "2026-04-26"
 author: "Redakcja"
 tags: ["OZE"]
 ---

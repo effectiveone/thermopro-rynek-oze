@@ -1,7 +1,7 @@
 ---
 title: "CATL jest wart więcej niż PetroChina — co chiński plan podwojenia OZE do 2035 oznacza dla cen paneli i magazynów w Polsce"
 description: "Bloomberg Green poinformował 16 kwietnia, że CATL — największy producent baterii na świecie — wyprzedził PetroChina pod względem kapitalizacji rynkowej (Bloombe"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Czyste Powietrze po reformie. Co wynika z 12 mld wypłat i większej roli gmin"
 description: "Program Czyste Powietrze często wraca w mediach przez pryzmat pojedynczych naborów, porównań z innymi dotacjami albo problemów reputacyjnych wokół części rynku "
-pubDate: "2026-04-30"
+date: "2026-04-30"
 author: "Redakcja"
 tags: ["OZE"]
 ---

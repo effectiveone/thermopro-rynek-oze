@@ -1,7 +1,7 @@
 ---
 title: "Polska ma 50% OZE w mocy zainstalowanej — minister Hennig-Kloska potwierdza na EKG w Katowicach"
 description: "22 kwietnia 2026 minister Paulina Hennig-Kloska na Europejskim Kongresie Gospodarczym w Katowicach oficjalnie potwierdziła, że Polska przekroczyła próg 50% udzi"
-pubDate: "2026-04-23"
+date: "2026-04-23"
 author: "Redakcja"
 tags: ["OZE"]
 ---

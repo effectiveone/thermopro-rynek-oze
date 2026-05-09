@@ -1,7 +1,7 @@
 ---
 title: "Magazyn energii w domu — czym jest i kiedy warto go rozważyć"
 description: ""
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

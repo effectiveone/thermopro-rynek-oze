@@ -1,7 +1,7 @@
 ---
 title: "Nie każda pompa ciepła będzie miała taką samą przyszłość. Coraz więcej zależy od czynnika chłodniczego"
 description: "W ostatnich dniach GLOBEnergia zwracała uwagę, że część pomp ciepła będzie stopniowo znikać z rynku nie dlatego, że nagle przestanie działać technologia grzewcz"
-pubDate: "2026-04-28"
+date: "2026-04-28"
 author: "Redakcja"
 tags: ["OZE"]
 ---

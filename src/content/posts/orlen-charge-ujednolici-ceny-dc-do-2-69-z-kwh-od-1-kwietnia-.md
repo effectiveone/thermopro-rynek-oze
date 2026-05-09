@@ -1,7 +1,7 @@
 ---
 title: "Orlen Charge ujednolicił ceny DC do 2,69 zł/kWh od 1 kwietnia 2026. Co to zmienia dla kierowców i flot"
 description: "Orlen Charge od 1 kwietnia 2026 roku stosuje jedną stawkę za szybkie ładowanie DC: 2,69 zł/kWh — na wszystkich stacjach ORLEN Charge DC, niezależnie od mocy ład"
-pubDate: "2026-04-27"
+date: "2026-04-27"
 author: "Redakcja"
 tags: ["OZE"]
 ---

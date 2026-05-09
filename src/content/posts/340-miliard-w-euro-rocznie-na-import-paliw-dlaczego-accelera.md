@@ -1,7 +1,7 @@
 ---
 title: "340 miliardów euro rocznie na import paliw. Dlaczego AccelerateEU to plan ekonomiczny, nie tylko klimatyczny"
 description: "Kiedy Komisja Europejska ogłosiła pod koniec kwietnia AccelerateEU, media skupiły się głównie na konkretnej liczbie: sygnalizowanym celu 200 GW magazynów energi"
-pubDate: "2026-05-01"
+date: "2026-05-01"
 author: "Redakcja"
 tags: ["OZE"]
 ---

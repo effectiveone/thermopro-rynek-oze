@@ -1,7 +1,7 @@
 ---
 title: "Problem łopat wiatraków wraca. Co pokazuje case Teksasu?"
 description: "Bloomberg opisał problem składowania zużytych łopat turbin w Teksasie, a CompositesWorld pokazał technologię, która ma ten problem ograniczać w nowych instalacj"
-pubDate: "2026-04-27"
+date: "2026-04-27"
 author: "Redakcja"
 tags: ["OZE"]
 ---

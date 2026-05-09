@@ -1,7 +1,7 @@
 ---
 title: "Komisja Europejska zapowiada pakiet 'HomePower' i AccelerateEU — propozycja wsparcia domowego OZE na etapie komunikatu"
 description: "🟡 Według PV Magazine Global i EU Today (23.04.2026) Komisja Europejska zaprezentowała propozycję pakietu AccelerateEU, który ma łączyć krótkoterminowe wsparcie "
-pubDate: "2026-04-25"
+date: "2026-04-25"
 author: "Redakcja"
 tags: ["OZE"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "BYD ładuje w 5 minut, Ford zamyka dział EV. Co to znaczy dla elektromobilności — i Twojego magazynu energii?"
 description: "W tym samym tygodniu dwa sygnały z dwóch końców rynku EV: BYD rozpoczął wyposażanie swoich najpopularniejszych modeli w technologię flash charging — ładowanie o"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Portal branżowy donosi o korektach faktur dla prosumentów z fotowoltaiką — informacja niezweryfikowana przez URE ani OSD"
 description: "🟡 GLOBEnergia (Tier 3 — brak niezależnej weryfikacji, 23.04.2026) informuje, że mogą trwać korekty faktur dla prosumentów z PV w systemie net-billing. Według te"
-pubDate: "2026-04-24"
+date: "2026-04-24"
 author: "Redakcja"
 tags: ["OZE"]
 ---

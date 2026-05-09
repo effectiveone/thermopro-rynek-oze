@@ -1,7 +1,7 @@
 ---
 title: "Ceny energii elektrycznej w UE na tle USA i Chin — dane IEA 2026 i debata o integracji rynku"
 description: "Raport IEA Electricity 2026 dokumentuje różnicę w hurtowych cenach energii elektrycznej między głównymi blokami gospodarczymi: ceny w UE są wyższe niż w USA i C"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

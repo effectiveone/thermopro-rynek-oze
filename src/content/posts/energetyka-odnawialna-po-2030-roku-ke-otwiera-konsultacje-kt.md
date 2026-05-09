@@ -1,7 +1,7 @@
 ---
 title: "Energetyka odnawialna po 2030 roku — KE otwiera konsultacje, które mogą ustawić następną dekadę"
 description: "Komisja Europejska rozpoczęła konsultacje publiczne dotyczące ram prawnych dla OZE po 2030 roku. To nie jest jeszcze nowa dyrektywa ani gotowy pakiet obowiązków"
-pubDate: "2026-05-01"
+date: "2026-05-01"
 author: "Redakcja"
 tags: ["OZE"]
 ---

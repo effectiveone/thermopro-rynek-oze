@@ -1,7 +1,7 @@
 ---
 title: "Ujemne ceny energii wiosną 2026 — dlaczego weekendy to największy problem i co to oznacza dla rynku OZE"
 description: "Wiosna 2026 przynosi kolejne epizody ujemnych cen energii na rynku dobowym TGE — szczególnie w weekendy i w godzinach szczytu słonecznego. To nie jest nowe zjaw"
-pubDate: "2026-04-23"
+date: "2026-04-23"
 author: "Redakcja"
 tags: ["OZE"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Czyste Powietrze po działaniach CBA: co na ten moment wiadomo o umowach, wnioskach i wypłatach"
 description: "21 kwietnia 2026 r. CBA poinformowało, że na polecenie Prokuratury Europejskiej zabezpieczyło dokumentację dotyczącą programu „Czyste Powietrze” w kilkunastu in"
-pubDate: "2026-04-27"
+date: "2026-04-27"
 author: "Redakcja"
 tags: ["OZE"]
 ---

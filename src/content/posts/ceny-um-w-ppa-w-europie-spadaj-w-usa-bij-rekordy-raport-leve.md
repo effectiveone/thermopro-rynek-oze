@@ -1,7 +1,7 @@
 ---
 title: "Ceny umów PPA w Europie spadają, w USA biją rekordy — raport LevelTen Q1 2026"
 description: "Najnowszy indeks LevelTen za Q1 2026 pokazuje rozbieżność: ceny PPA na energię słoneczną w Europie dalej spadają, podczas gdy w Ameryce Północnej biją historycz"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

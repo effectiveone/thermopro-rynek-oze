@@ -1,7 +1,7 @@
 ---
 title: "Największa farma PV w Europie ma powstać w Polsce. Co dziś naprawdę wiadomo o projekcie 722 MWp"
 description: "W polskiej energetyce odnawialnej coraz częściej przestają robić wrażenie same megawaty. Żeby temat naprawdę się wyróżnił, musi nieść za sobą zmianę skali. Tak "
-pubDate: "2026-05-01"
+date: "2026-05-01"
 author: "Redakcja"
 tags: ["OZE"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Balcony solar: trzy stany USA legislują jednocześnie, a polskie firmy BIPV rosną w Europie"
 description: "W ciągu jednego tygodnia trzy stany USA (Wisconsin, Colorado, Delaware) procedowały ustawy dotyczące paneli słonecznych na balkonach. W Europie ten trend już tr"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

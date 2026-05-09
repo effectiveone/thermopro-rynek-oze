@@ -1,7 +1,7 @@
 ---
 title: "AI i centra danych — dlaczego sztuczna inteligencja zmienia zapotrzebowanie na energię"
 description: ""
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

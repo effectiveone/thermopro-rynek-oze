@@ -1,7 +1,7 @@
 ---
 title: "Fala termomodernizacji za publiczne pieniądze. Twój budynek może być następny"
 description: "W samym kwietniu 2026 zarejestrowano kilkanaście niezależnych sygnałów o termomodernizacji budynków publicznych w Polsce. Konrad Gruca analizuje mechanizmy napę"
-pubDate: "2026-04-11"
+date: "2026-04-11"
 author: "Redakcja"
 tags: ["OZE", "energia"]
 ---

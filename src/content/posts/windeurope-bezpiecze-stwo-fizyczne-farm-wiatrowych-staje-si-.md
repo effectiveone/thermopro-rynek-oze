@@ -1,7 +1,7 @@
 ---
 title: "WindEurope: bezpieczeństwo fizyczne farm wiatrowych staje się priorytetem — zagrożenia hybrydowe docierają do Bałtyku"
 description: "Według WindEurope (23.04.2026, Tier 2), organizacja apeluje do UE i rządów o konkretne środki ochrony farm wiatrowych przed sabotażem i zagrożeniami hybrydowymi"
-pubDate: "2026-04-27"
+date: "2026-04-27"
 author: "Redakcja"
 tags: ["OZE"]
 ---

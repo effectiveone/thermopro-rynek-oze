@@ -1,7 +1,7 @@
 ---
 title: "Co robić ze starymi panelami PV i bateriami? Recykling i second-life w 2026 — stan technologii"
 description: "Globalna baza zainstalowanych paneli PV przekroczyła szacunkowo 2 TW. Pierwsze generacje modułów (instalowane w latach 2005–2015) zbliżają się do końca okresu p"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

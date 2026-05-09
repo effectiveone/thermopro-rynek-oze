@@ -1,7 +1,7 @@
 ---
 title: "Ceny paneli PV rosną po 2 latach spadków — jak zmienia się kalkulacja instalacji"
 description: "PV Magazine Global raportuje, że ceny modułów PV globalnie rosną — nieprzerwalnie od kilku tygodni (PV Magazine Global, 16.04.2026). Jednocześnie Reuters donosi"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Meta i Noon Energy ogłosiły według doniesień rezerwację zdolności na 100 GWh ultra-LDES — giganci tech wchodzą w rynek magazynowania"
 description: "🟡 Według portalu Solar Builder (Tier 3 — brak niezależnej weryfikacji), Noon Energy i Meta ogłosiły umowę na rezerwację do 100 GWh pojemności ultra-długotermino"
-pubDate: "2026-04-27"
+date: "2026-04-27"
 author: "Redakcja"
 tags: ["OZE"]
 ---

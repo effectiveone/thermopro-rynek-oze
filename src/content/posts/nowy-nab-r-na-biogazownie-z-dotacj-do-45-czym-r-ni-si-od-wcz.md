@@ -1,7 +1,7 @@
 ---
 title: "Nowy nabór na biogazownie z dotacją do 45%. Czym różni się od wcześniejszego wsparcia"
 description: "Na 30 kwietnia przypada start kolejnego ważnego sygnału dla rynku biogazu: według branżowych zapowiedzi dotyczących programu NFOŚiGW rusza nabór na instalacje z"
-pubDate: "2026-04-30"
+date: "2026-04-30"
 author: "Redakcja"
 tags: ["OZE"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Cła USA do 123% na PV z Azji. Co to znaczy dla Polski?"
 description: "USA ogłosiły wstępne stawki ceł antydumpingowych na wybrane importy PV z Indii, Indonezji i Laosu. Dla Polski ważniejsze od samej decyzji jest to, co stanie się"
-pubDate: "2026-04-26"
+date: "2026-04-26"
 author: "Redakcja"
 tags: ["OZE"]
 ---

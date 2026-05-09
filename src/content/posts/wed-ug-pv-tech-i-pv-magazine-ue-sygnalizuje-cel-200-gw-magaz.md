@@ -1,7 +1,7 @@
 ---
 title: "Według PV Tech i PV Magazine UE sygnalizuje cel 200 GW magazynów energii do 2030 roku. Finansowanie pozostaje niejasne"
 description: "Według relacji PV Tech i PV Magazine Komisja Europejska, w ramach pakietu opisywanego jako AccelerateEU, sygnalizuje poparcie dla celu 200 GW zainstalowanej poj"
-pubDate: "2026-04-28"
+date: "2026-04-28"
 author: "Redakcja"
 tags: ["OZE"]
 ---

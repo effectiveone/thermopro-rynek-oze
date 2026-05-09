@@ -1,7 +1,7 @@
 ---
 title: "Fundusz Wsparcia Energetyki: 70 mld zł na sieci, OZE i elastyczność systemu"
 description: "Jedna z mocniejszych liczb, które padły w komunikacie Ministerstwa Klimatu i Środowiska, to 70 mld zł dla Funduszu Wsparcia Energetyki. W praktyce nie chodzi tu"
-pubDate: "2026-04-30"
+date: "2026-04-30"
 author: "Redakcja"
 tags: ["OZE"]
 ---

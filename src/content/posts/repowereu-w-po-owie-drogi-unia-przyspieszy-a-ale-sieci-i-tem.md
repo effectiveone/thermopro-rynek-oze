@@ -1,7 +1,7 @@
 ---
 title: "REPowerEU w połowie drogi. Unia przyspieszyła, ale sieci i tempo wdrożeń nadal nie nadążają"
 description: "REPowerEU miał pomóc Europie szybciej odciąć się od rosyjskich paliw i równolegle przyspieszyć OZE, efektywność oraz rozbudowę infrastruktury. Komisja Europejsk"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

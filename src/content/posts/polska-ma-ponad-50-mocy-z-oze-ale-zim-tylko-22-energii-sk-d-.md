@@ -1,7 +1,7 @@
 ---
 title: "Polska ma ponad 50% mocy z OZE, ale zimą tylko 22% energii. Skąd bierze się ten paradoks"
 description: "Na koniec 2025 roku Polska po raz pierwszy przekroczyła próg 50% udziału OZE w zainstalowanej mocy wytwórczej. Jednocześnie w lutym 2026 roku udział OZE w miksi"
-pubDate: "2026-04-30"
+date: "2026-04-30"
 author: "Redakcja"
 tags: ["OZE"]
 ---

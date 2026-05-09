@@ -1,7 +1,7 @@
 ---
 title: "Enea koryguje rozliczenia net-billing. Co to oznacza dla faktur prosumentów?"
 description: "Od ponad dwóch lat net-billing teoretycznie powinien działać godzinowo. Enea przyznaje, że przez pewien czas stosowała rozliczenie miesięczne. Teraz trwa korygo"
-pubDate: "2026-04-28"
+date: "2026-04-28"
 author: "Redakcja"
 tags: ["OZE"]
 ---

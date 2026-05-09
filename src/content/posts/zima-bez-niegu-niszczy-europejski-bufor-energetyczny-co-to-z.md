@@ -1,7 +1,7 @@
 ---
 title: "Zima bez śniegu niszczy europejski bufor energetyczny. Co to znaczy dla Polski?"
 description: "Norwegia działa jak gigantyczna bateria dla Europy — tyle że tej zimy prawie nie ma czym jej naładować. Bloomberg potwierdza: 2025/26 to najsuższa zima w Norweg"
-pubDate: "2026-04-09"
+date: "2026-04-09"
 author: "Redakcja"
 tags: ["OZE", "energia", "dotacje"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Net-billing vs net-metering — co Węgry zrobiły z rozliczeniem prosumentów i czego Polska może się nauczyć"
 description: "Węgry zakończyły net-metering i przeszły na system bliższy polskiemu net-billingowi. Efekt? Część prosumentów rozczarowana — mniejsze korzyści, niż się spodziew"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

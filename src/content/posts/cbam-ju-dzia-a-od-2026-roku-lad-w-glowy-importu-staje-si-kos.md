@@ -1,7 +1,7 @@
 ---
 title: "CBAM już działa. Od 2026 roku ślad węglowy importu staje się kosztem, a nie tylko raportem"
 description: "Od 1 stycznia 2026 r. unijny CBAM wszedł w fazę definitywną: importerzy objętych towarów muszą przejść z samego raportowania do systemu certyfikatów i rozliczan"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

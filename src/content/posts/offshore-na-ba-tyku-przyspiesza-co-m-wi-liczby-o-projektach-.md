@@ -1,7 +1,7 @@
 ---
 title: "Offshore na Bałtyku przyspiesza. Co mówią liczby o projektach do 2032 roku"
 description: "Polska morska energetyka wiatrowa przez długi czas żyła głównie w prezentacjach, harmonogramach i zapowiedziach. Z materiałów zebranych na 30 kwietnia wynika je"
-pubDate: "2026-04-30"
+date: "2026-04-30"
 author: "Redakcja"
 tags: ["OZE"]
 ---

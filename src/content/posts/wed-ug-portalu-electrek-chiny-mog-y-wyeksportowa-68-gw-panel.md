@@ -1,7 +1,7 @@
 ---
 title: "Według portalu Electrek Chiny mogły wyeksportować 68 GW paneli słonecznych w marcu 2026 — co z tego może wynikać dla cen PV w Polsce"
 description: "🟡 Według portalu Electrek (Tier 3 — brak niezależnej weryfikacji), chiński eksport paneli słonecznych mógł osiągnąć w marcu 2026 poziom 68 GW. 🟡 Dane Ember potw"
-pubDate: "2026-04-27"
+date: "2026-04-27"
 author: "Redakcja"
 tags: ["OZE"]
 ---

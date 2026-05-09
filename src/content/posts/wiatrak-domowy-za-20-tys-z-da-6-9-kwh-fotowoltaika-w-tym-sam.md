@@ -1,7 +1,7 @@
 ---
 title: "Wiatrak domowy za 20 tys. zł dał 6,9 kWh. Fotowoltaika w tym samym czasie — 150 kWh"
 description: "KB.pl opublikował dane z rzeczywistego testu: mikroelektrownia wiatrowa za szacunkowo 20 000 zł wyprodukowała 6,9 kWh energii w okresie testowym. W tym samym cz"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

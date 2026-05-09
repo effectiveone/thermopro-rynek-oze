@@ -1,7 +1,7 @@
 ---
 title: "Taryfy dynamiczne 2026: jak zarobić na tym, że sąsiad musi wyłączyć inwerter"
 description: "W kwietniu 2026 polskie media energetyczne donoszą o dwóch zjawiskach jednocześnie: wyłączeniach inwerterów u prosumentów i rekordowo niskich cenach energii w s"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

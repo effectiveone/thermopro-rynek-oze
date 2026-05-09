@@ -1,7 +1,7 @@
 ---
 title: "BCG: zaskakujące lekcje ze skalowania OZE w USA i Chinach. Co Polska robi źle?"
 description: "Boston Consulting Group przeanalizował transformację energetyczną USA i Chin. Wniosek: Polska popełnia te same błędy co USA w 2015 — i ma jeszcze czas na korekt"
-pubDate: "2026-04-12"
+date: "2026-04-12"
 author: "Redakcja"
 tags: ["OZE", "energia"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "4 dotacje na OZE w jednym tygodniu: Mój Prąd, 45 000 zł na PV, Czyste Powietrze, kredyt 0% — mapa finansowania 2026"
 description: "W ciągu jednego tygodnia (14–17 kwietnia 2026) otworzyły się lub przedłużyły cztery niezależne ścieżki finansowania instalacji PV i magazynów energii w Polsce. "
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

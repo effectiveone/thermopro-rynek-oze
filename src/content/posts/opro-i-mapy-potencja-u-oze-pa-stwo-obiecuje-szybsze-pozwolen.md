@@ -1,7 +1,7 @@
 ---
 title: "OPRO i mapy potencjału OZE. Państwo obiecuje szybsze pozwolenia, ale klucz będzie lokalny"
 description: "Ministerstwo Klimatu i Środowiska komunikuje, że Polska zakończyła pierwszy kompleksowy proces cyfrowego mapowania potencjału OZE i równolegle wprowadziła ramy "
-pubDate: "2026-04-30"
+date: "2026-04-30"
 author: "Redakcja"
 tags: ["OZE"]
 ---

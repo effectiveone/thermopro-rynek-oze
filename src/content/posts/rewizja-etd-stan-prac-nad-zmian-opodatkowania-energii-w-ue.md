@@ -1,7 +1,7 @@
 ---
 title: "Rewizja ETD — stan prac nad zmianą opodatkowania energii w UE"
 description: ""
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

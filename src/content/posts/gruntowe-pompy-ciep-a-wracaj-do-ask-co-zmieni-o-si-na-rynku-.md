@@ -1,7 +1,7 @@
 ---
 title: "Gruntowe pompy ciepła wracają do łask. Co zmieniło się na rynku i kiedy ma to sens?"
 description: "Przez lata rządziły pompy powietrze-woda — prostsze w montażu, tańsze na starcie, dostępne od ręki. Teraz instalatorzy mówią, że pytania o gruntowe wracają. To "
-pubDate: "2026-04-28"
+date: "2026-04-28"
 author: "Redakcja"
 tags: ["OZE"]
 ---

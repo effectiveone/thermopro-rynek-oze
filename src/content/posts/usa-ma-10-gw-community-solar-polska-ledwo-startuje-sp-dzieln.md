@@ -1,7 +1,7 @@
 ---
 title: "USA ma 10 GW community solar — Polska ledwo startuje. Spółdzielnie energetyczne: szansa czy biurokracja?"
 description: "Solar Power World raportuje, że sektor community solar (fotowoltaiki wspólnotowej) w USA przekroczył szacunkowo 10 GW mocy zainstalowanej i produkuje energię dl"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

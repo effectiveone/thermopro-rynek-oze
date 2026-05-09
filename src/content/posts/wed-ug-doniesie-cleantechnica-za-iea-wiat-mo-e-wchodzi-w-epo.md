@@ -1,7 +1,7 @@
 ---
 title: "Według doniesień CleanTechnica za IEA: świat może wchodzić w „Epokę Elektryczności' — OZE miały po raz pierwszy wyprzedzić węgiel w 2025 roku"
 description: "🟡 Według relacji CleanTechnica (Tier 3 — brak niezależnej weryfikacji) za raportem IEA 2025, OZE mogły stać się największym globalnym źródłem energii elektryczn"
-pubDate: "2026-04-24"
+date: "2026-04-24"
 author: "Redakcja"
 tags: ["OZE"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Czy Polsce jest potrzebny offshore wind? UK i USA rezygnują, Eurowind buduje — kto ma rację"
 description: "GLOBEnergia zadała w tytule artykułu pytanie, które jeszcze rok temu brzmiałoby jak prowokacja: „Czy Polsce jest w ogóle potrzebna energetyka wiatrowa na morzu?"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

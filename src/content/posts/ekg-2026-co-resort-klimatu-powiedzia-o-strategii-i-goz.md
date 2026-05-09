@@ -1,7 +1,7 @@
 ---
 title: "EKG 2026: co resort klimatu powiedział o strategii i GOZ"
 description: "Z komunikatów resortu klimatu po EKG 2026 wyłania się wspólny kierunek: strategia klimatyczna, bezpieczeństwo surowcowe, GOZ i system kaucyjny mają być opowiada"
-pubDate: "2026-04-26"
+date: "2026-04-26"
 author: "Redakcja"
 tags: ["OZE"]
 ---

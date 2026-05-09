@@ -1,7 +1,7 @@
 ---
 title: "Wirtualna elektrownia (VPP) — czym jest i jak łączy prosumentów w jeden zasób energetyczny"
 description: ""
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---

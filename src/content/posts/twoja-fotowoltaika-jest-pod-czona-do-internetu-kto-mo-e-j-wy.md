@@ -1,7 +1,7 @@
 ---
 title: "Twoja fotowoltaika jest podłączona do internetu. Kto może ją wyłączyć — haker, operator, czy Ty?"
 description: "GLOBEnergia zadała pytanie, którego nikt wcześniej publicznie nie postawił w polskim internecie energetycznym: „Czy polska fotowoltaika jest bezpieczna w sieci?"
-pubDate: "2026-04-22"
+date: "2026-04-22"
 author: "Redakcja"
 tags: ["OZE"]
 ---
